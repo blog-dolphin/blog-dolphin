@@ -1,2 +1,1 @@
-# blog-dolphin
-Blog of Yuan Meng
+# Dolphin-Bambo
